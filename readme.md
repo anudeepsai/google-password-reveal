@@ -19,6 +19,9 @@ Download the repo and [install it](https://developer.chrome.com/extensions/getst
 Open gmail.com and enter your email but use a wrong password. 
 Unless you want to display your password. In which case you should just [do this](https://support.google.com/accounts/answer/61177?hl=en)
 
+
+![](https://raw.githubusercontent.com/anudeepsai/google-password-reveal/master/demo.gif)
+
 ## ToDo
 
 Come up with a better name for this project.
