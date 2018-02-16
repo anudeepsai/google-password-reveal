@@ -1,11 +1,11 @@
 # Google password revealer ?
 
-This is a POF for revealing sensitive information by using the API chrome.webRequest.onBeforeRequest in a Chrome extension.
+This is a POC for revealing sensitive information by using the API chrome.webRequest.onBeforeRequest in a Chrome extension.
 The password is displayed visually so DO NOT use your original password.
 
 The point is "Please be aware of what you're installing and giving permissions to".
 
-This extension is not intended to go on play store.
+This extension is not intended to go on Chrome store.
 
 Finally do not be evil when you're using this. This is to increase awareness.
 
