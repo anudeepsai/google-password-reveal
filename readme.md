@@ -22,6 +22,10 @@ Unless you want to display your password. In which case you should just [do this
 
 ![](https://raw.githubusercontent.com/anudeepsai/google-password-reveal/master/demo.gif)
 
+## Update
+
+[Reported this issue](https://issuetracker.google.com/issues/74016965)
+
 ## ToDo
 
 Come up with a better name for this project.
