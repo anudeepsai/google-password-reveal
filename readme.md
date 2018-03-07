@@ -1,4 +1,4 @@
-# Google password revealer ?
+# Snoopbot Chrome ?
 
 This is a POC for revealing sensitive information by using the API chrome.webRequest.onBeforeRequest in a Chrome extension.
 The password is displayed visually so DO NOT use your original password.
@@ -28,4 +28,4 @@ Unless you want to display your password. In which case you should just [do this
 
 ## ToDo
 
-Come up with a better name for this project.
+~~Come up with a better name for this project~~. Done !
