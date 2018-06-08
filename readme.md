@@ -25,6 +25,7 @@ Unless you want to display your password. In which case you should just [do this
 ## Update
 
 [Reported this issue](https://issuetracker.google.com/issues/74016965)
+[Chromium bug id](https://bugs.chromium.org/p/chromium/issues/detail?id=817760#c3)
 
 ## ToDo
 
